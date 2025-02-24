@@ -1,0 +1,10 @@
+kafka-console-consumer --bootstrap-server localhost:9092 --topic transaction-created --from-beginning
+kafka-console-consumer --bootstrap-server localhost:9092 --topic transaction-status-updated --from-beginning
+
+Can run individually enabling one
+
+//builder.Services.AddHostedService<AntiFraudService.Services.AntiFraudService>();
+//builder.Services.AddHostedService<TransactionStatusConsumer>();
+builder.Services.AddScoped<ITransactionService, TransactionService.Services.TransactionService>();
+
+

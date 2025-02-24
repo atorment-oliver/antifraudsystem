@@ -1,0 +1,11 @@
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\ControlKernel\bin\Debug\net8.0\ControlKernel.deps.json
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\ControlKernel\bin\Debug\net8.0\ControlKernel.dll
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\ControlKernel\bin\Debug\net8.0\ControlKernel.pdb
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\ControlKernel\obj\Debug\net8.0\ControlKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\ControlKernel\obj\Debug\net8.0\ControlKernel.AssemblyInfoInputs.cache
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\ControlKernel\obj\Debug\net8.0\ControlKernel.AssemblyInfo.cs
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\ControlKernel\obj\Debug\net8.0\ControlKernel.csproj.CoreCompileInputs.cache
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\ControlKernel\obj\Debug\net8.0\ControlKernel.dll
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\ControlKernel\obj\Debug\net8.0\refint\ControlKernel.dll
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\ControlKernel\obj\Debug\net8.0\ControlKernel.pdb
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\ControlKernel\obj\Debug\net8.0\ref\ControlKernel.dll

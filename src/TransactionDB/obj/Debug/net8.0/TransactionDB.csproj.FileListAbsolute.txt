@@ -1,0 +1,15 @@
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\TransactionDB\bin\Debug\net8.0\TransactionDB.deps.json
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\TransactionDB\bin\Debug\net8.0\TransactionDB.dll
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\TransactionDB\bin\Debug\net8.0\TransactionDB.pdb
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\TransactionDB\bin\Debug\net8.0\ControlKernel.dll
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\TransactionDB\bin\Debug\net8.0\ControlKernel.pdb
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\TransactionDB\obj\Debug\net8.0\TransactionDB.csproj.AssemblyReference.cache
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\TransactionDB\obj\Debug\net8.0\TransactionDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\TransactionDB\obj\Debug\net8.0\TransactionDB.AssemblyInfoInputs.cache
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\TransactionDB\obj\Debug\net8.0\TransactionDB.AssemblyInfo.cs
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\TransactionDB\obj\Debug\net8.0\TransactionDB.csproj.CoreCompileInputs.cache
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\TransactionDB\obj\Debug\net8.0\Transact.A1E0E89E.Up2Date
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\TransactionDB\obj\Debug\net8.0\TransactionDB.dll
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\TransactionDB\obj\Debug\net8.0\refint\TransactionDB.dll
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\TransactionDB\obj\Debug\net8.0\TransactionDB.pdb
+C:\Users\Ticsys\Documents\NET\AntiFraudSystem\TransactionDB\obj\Debug\net8.0\ref\TransactionDB.dll

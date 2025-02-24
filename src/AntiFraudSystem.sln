@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlKernel", "ControlKernel\ControlKernel.csproj", "{C223494B-D718-4A56-94D8-757953C77FF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransactionService", "TransactionService\TransactionService.csproj", "{D0810649-49FB-4B22-B0FA-5B5E9E31D606}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{555439D2-199A-4A86-9B78-591446038808}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yaml = docker-compose.yaml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntiFraudService", "AntiFraudService\AntiFraudService.csproj", "{89494E9D-8141-4180-9EB2-F58B16390D5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C223494B-D718-4A56-94D8-757953C77FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C223494B-D718-4A56-94D8-757953C77FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C223494B-D718-4A56-94D8-757953C77FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C223494B-D718-4A56-94D8-757953C77FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0810649-49FB-4B22-B0FA-5B5E9E31D606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0810649-49FB-4B22-B0FA-5B5E9E31D606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0810649-49FB-4B22-B0FA-5B5E9E31D606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0810649-49FB-4B22-B0FA-5B5E9E31D606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89494E9D-8141-4180-9EB2-F58B16390D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89494E9D-8141-4180-9EB2-F58B16390D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89494E9D-8141-4180-9EB2-F58B16390D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89494E9D-8141-4180-9EB2-F58B16390D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90DB0782-310F-4C21-9057-0525732E6E83}
+	EndGlobalSection
+EndGlobal

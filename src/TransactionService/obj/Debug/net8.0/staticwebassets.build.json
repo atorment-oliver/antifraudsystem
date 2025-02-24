@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "Q1hVIy/527HrcNfv8yNDhyzaGBgB8r2F9T5NvCiUiq8=",
+  "Source": "TransactionService",
+  "BasePath": "_content/TransactionService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Ticsys\\Documents\\NET\\AntiFraudSystem\\AntiFraudService\\AntiFraudService.csproj",
+      "Version": 2,
+      "Source": "AntiFraudService",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

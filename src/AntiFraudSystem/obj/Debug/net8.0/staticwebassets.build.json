@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NeClBlVm7QPhzJy3AY7KMTWkDdbjns1neazZbJVpP64=",
+  "Source": "AntiFraudService",
+  "BasePath": "_content/AntiFraudService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
